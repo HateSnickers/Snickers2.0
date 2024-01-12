@@ -1,0 +1,7 @@
+D:\data\snickers 2.0\Snickers2.0\Pribehovka\bin\Debug\Pribehovka.exe.config
+D:\data\snickers 2.0\Snickers2.0\Pribehovka\bin\Debug\Pribehovka.exe
+D:\data\snickers 2.0\Snickers2.0\Pribehovka\bin\Debug\Pribehovka.pdb
+D:\data\snickers 2.0\Snickers2.0\Pribehovka\obj\Debug\Pribehovka.csproj.AssemblyReference.cache
+D:\data\snickers 2.0\Snickers2.0\Pribehovka\obj\Debug\Pribehovka.csproj.CoreCompileInputs.cache
+D:\data\snickers 2.0\Snickers2.0\Pribehovka\obj\Debug\Pribehovka.exe
+D:\data\snickers 2.0\Snickers2.0\Pribehovka\obj\Debug\Pribehovka.pdb
