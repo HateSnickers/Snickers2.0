@@ -1,0 +1,7 @@
+U:\PRG\Snickers\Graf\bin\Debug\Graf.exe.config
+U:\PRG\Snickers\Graf\bin\Debug\Graf.exe
+U:\PRG\Snickers\Graf\bin\Debug\Graf.pdb
+U:\PRG\Snickers\Graf\obj\Debug\Graf.csproj.AssemblyReference.cache
+U:\PRG\Snickers\Graf\obj\Debug\Graf.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\Graf\obj\Debug\Graf.exe
+U:\PRG\Snickers\Graf\obj\Debug\Graf.pdb
