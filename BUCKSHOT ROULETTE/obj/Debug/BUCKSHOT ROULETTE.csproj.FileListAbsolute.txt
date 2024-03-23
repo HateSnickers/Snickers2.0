@@ -1,7 +1,0 @@
-D:\data\snickers 2.0\Snickers2.0\BUCKSHOT ROULETTE\bin\Debug\BUCKSHOT ROULETTE.exe.config
-D:\data\snickers 2.0\Snickers2.0\BUCKSHOT ROULETTE\bin\Debug\BUCKSHOT ROULETTE.exe
-D:\data\snickers 2.0\Snickers2.0\BUCKSHOT ROULETTE\bin\Debug\BUCKSHOT ROULETTE.pdb
-D:\data\snickers 2.0\Snickers2.0\BUCKSHOT ROULETTE\obj\Debug\BUCKSHOT ROULETTE.csproj.AssemblyReference.cache
-D:\data\snickers 2.0\Snickers2.0\BUCKSHOT ROULETTE\obj\Debug\BUCKSHOT ROULETTE.csproj.CoreCompileInputs.cache
-D:\data\snickers 2.0\Snickers2.0\BUCKSHOT ROULETTE\obj\Debug\BUCKSHOT ROULETTE.exe
-D:\data\snickers 2.0\Snickers2.0\BUCKSHOT ROULETTE\obj\Debug\BUCKSHOT ROULETTE.pdb
