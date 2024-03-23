@@ -1,0 +1,10 @@
+D:\data\snickers 2.0\Snickers2.0\paint\bin\Debug\paint.exe.config
+D:\data\snickers 2.0\Snickers2.0\paint\bin\Debug\paint.exe
+D:\data\snickers 2.0\Snickers2.0\paint\bin\Debug\paint.pdb
+D:\data\snickers 2.0\Snickers2.0\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+D:\data\snickers 2.0\Snickers2.0\paint\obj\Debug\paint.Form1.resources
+D:\data\snickers 2.0\Snickers2.0\paint\obj\Debug\paint.Properties.Resources.resources
+D:\data\snickers 2.0\Snickers2.0\paint\obj\Debug\paint.csproj.GenerateResource.cache
+D:\data\snickers 2.0\Snickers2.0\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+D:\data\snickers 2.0\Snickers2.0\paint\obj\Debug\paint.exe
+D:\data\snickers 2.0\Snickers2.0\paint\obj\Debug\paint.pdb
